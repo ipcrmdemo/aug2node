@@ -1,0 +1,7 @@
+---
+applications:
+- name: "aug2node"
+  memory: 1024M
+  instances: 1
+  env:
+    ATOMIST_TEAM: A2MO4H2RG
